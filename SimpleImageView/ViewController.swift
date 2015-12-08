@@ -1,10 +1,5 @@
-//
 //  ViewController.swift
-//  SimpleImageView
-//
-//  Created by Deep Thought on 12/8/2015.
-//  Copyright © 2015 Lawrence Lee. All rights reserved.
-//
+
 
 import UIKit
 

@@ -12,6 +12,7 @@
 		25D5D05E1C1717D800AC9600 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25D5D05C1C1717D800AC9600 /* Main.storyboard */; };
 		25D5D0601C1717D800AC9600 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25D5D05F1C1717D800AC9600 /* Assets.xcassets */; };
 		25D5D0631C1717D800AC9600 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25D5D0611C1717D800AC9600 /* LaunchScreen.storyboard */; };
+		25D5D06B1C1718AC00AC9600 /* ifruit_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 25D5D06A1C1718AC00AC9600 /* ifruit_logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		25D5D05F1C1717D800AC9600 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		25D5D0621C1717D800AC9600 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		25D5D0641C1717D800AC9600 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25D5D06A1C1718AC00AC9600 /* ifruit_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ifruit_logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		25D5D0571C1717D800AC9600 /* SimpleImageView */ = {
 			isa = PBXGroup;
 			children = (
+				25D5D06A1C1718AC00AC9600 /* ifruit_logo.png */,
 				25D5D0581C1717D800AC9600 /* AppDelegate.swift */,
 				25D5D05A1C1717D800AC9600 /* ViewController.swift */,
 				25D5D05C1C1717D800AC9600 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				25D5D0631C1717D800AC9600 /* LaunchScreen.storyboard in Resources */,
+				25D5D06B1C1718AC00AC9600 /* ifruit_logo.png in Resources */,
 				25D5D0601C1717D800AC9600 /* Assets.xcassets in Resources */,
 				25D5D05E1C1717D800AC9600 /* Main.storyboard in Resources */,
 			);
